@@ -18,3 +18,6 @@ Vaizdo transliacijų grotuvui sukurti galima rasti nemažai atviro kodo pavyzdž
   - Išbandyti sukurtą grotuvą mažiausiai dviejose naršyklėse ir README.md parašyti, kuriose naršyklėse išbandyta ir veikia.
   - Įgyvendinus papildomą funkcionalumą, galima gauti papildomų balų.
   - Laboratorinis darbas užskaitomas, jei rezultate įgyvendinti bent du reikalavimai iš sąrašo
+
+# Testavimas naršyklėmis
+  - Grotuvas ištestuotas Google Chrome ir Mozilla Firefox naryklėmis ir abejose pridėti funkcionalumai veikė
